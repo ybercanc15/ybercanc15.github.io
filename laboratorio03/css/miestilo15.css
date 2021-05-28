@@ -1,0 +1,53 @@
+body {
+    background-color: seagreen;
+}
+
+.contenedor {
+    background-color: floralwhite;
+}
+
+table {
+    width: 100%;
+    border: 3px solid darkred;
+    border-collapse: collapse;
+}
+
+table thead th,
+table tbody td{
+    border: 3px solid darkslateblue;
+    padding: 5px;
+}
+table thead th {
+    height: 45px;
+    text-align: center;
+    vertical-align: top;
+}
+table tbody tr:hover{
+    background-color: dimgray;
+    color: floralwhite;
+}
+
+.tabla1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabla1 td,
+.tabla1 th {
+    border: 1px solid floralwhite;
+    padding: 8px;
+}
+
+.tabla1 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: darkslategrey;
+    color: white;
+}
+
+.tabla1 tr:hover {
+    background-color: skyblue;
+    color: darkblue;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: indigo;
+}
+.contenedor{
+    background-color: lightblue;
+}
+.caja1{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+}
+.caja2{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin-left: 40px;
+}
+.caja3{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin-right: 40px;
+}
+.caja4{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin-top: 40px;
+}
+.caja5{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin-bottom: 40px;
+}
+.caja6{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin: 20px 80px 30px 10px;
+}
+.caja7{
+    background-color: lightcyan;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumblue;
+    margin: auto;
+}

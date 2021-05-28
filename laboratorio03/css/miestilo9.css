@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(158, 102, 102);
+}
+.contenedor{
+    background-color: rgb(204, 166, 166);
+}
+.parrafocolor{
+    color: rgb(49, 27, 173);
+}
+.parrafoderecha{
+    text-align: right;
+}
+.parrafoizquierda{
+    text-align: left;
+}
+.parrafocentrado{
+    text-align: center;
+}
+.parrafojustificado{
+    text-align: justify;
+}
+.parrafosubrayado{
+    text-decoration: underline;
+}
+.parrafosobrelinea{
+    text-decoration: overline;
+}
+.parrafotachado{
+    text-decoration: line-through;
+}
+.parrafoninguno{
+    text-decoration: none;
+}
+.parrafomayuscula{
+    text-transform: uppercase;
+}
+.parrafominuscula{
+    text-transform: lowercase;
+}
+.parrafonombrepropio{
+    text-transform: capitalize;
+}
+.parrafoespacionormal{
+    letter-spacing: 5px;
+}
+.parrafoespaciocomprimido{
+    letter-spacing: -5px;
+}
+.parrafoespacioarriba{
+    line-height: 0.9px;
+}
+.parrafoespacioarribacomprimido{
+    letter-spacing: -1.9px;
+}
+.parrafoespacioletra{
+    word-spacing: 10px;
+}
+.parrafoespacioletracomprimido{
+    word-spacing: -10px;
+}
+.parrafoespacio{
+    white-space: pre-wrap;
+}
+.parrafosangria{
+    text-indent: 50px;
+}
+.parrafosombra{
+    text-shadow:2px 2px gray;
+}
+.parrafosombragrande{
+    text-transform: uppercase;
+    font-size: 25px;
+    text-shadow:5px 5px 5px gray;
+}
