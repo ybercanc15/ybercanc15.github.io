@@ -1,0 +1,146 @@
+li{
+    display: inline;
+}
+span{
+    display: block;
+}
+a{
+    display: block;
+}
+p span{
+    display: inline-block;
+    width: 30%;
+}
+.elementolista p{
+    display: list-item;
+    margin-left: 50px;
+}
+.contenedor{
+    display: table;
+    border-spacing: 10px;
+}
+.contenido{
+    display: row;
+}
+.izquierda, 
+.principal, 
+.derecha{
+    display: table-cell;
+}
+.principal{
+    width: 60%;
+}
+.izquierda, 
+.derecha{
+    width: 20%;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 15px;
+    background-color: cornflowerblue;
+}
+.flexible p{
+    width: 25%;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible2{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 15px;
+    background-color: rgb(116, 211, 214);
+}
+.flexible2 p{
+    width: 25%;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible3{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    background-color: rgb(171, 214, 116);
+}
+.flexible3 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible4{
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 15px;
+    background-color: rgb(214, 147, 116);
+}
+.flexible4 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible5{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 15px;
+    background-color: rgb(167, 116, 214);
+}
+.flexible5 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible6{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+    background-color: rgb(126, 116, 214);
+}
+.flexible6 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible7{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 15px;
+    background-color: rgb(116, 214, 124);
+}
+.flexible7 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible8{
+    display: flex;
+    flex-flow: row-reverse wrap;
+    margin-bottom: 15px;
+    background-color: rgb(214, 171, 116);
+}
+.flexible8 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible9{
+    display: flex;
+    flex-flow: wrap row-reverse;
+    margin-bottom: 15px;
+    background-color: rgb(214, 116, 176);
+}
+.flexible9 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}
+.flexible10{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+    background-color: rgb(147, 214, 116);
+}
+.flexible10 p{
+    width: 250px;
+    border: black 1px solid;
+    margin: 4px;
+}

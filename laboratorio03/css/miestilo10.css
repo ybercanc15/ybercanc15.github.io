@@ -1,0 +1,96 @@
+/* importamos letras de google */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+* {
+    padding: 15px;
+}
+body{
+    background-color: green;
+}
+.contenedor{
+    background-color: greenyellow;
+}
+
+div{
+    border-style: solid;
+}
+
+.parrafo1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.parrafo2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parrafo3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.parrafo4{
+    font-style: italic;
+}
+.parrafo5{
+    font-style: oblique;
+}
+.parrafo6{
+    font-style: normal;
+}
+.parrafo7{
+    font-weight: bold;
+}
+.parrafo8{
+    font-weight: bolder;
+}
+.parrafo9{
+    font-variant: small-caps;
+}
+.parrafo10{
+    font-variant: normal;
+}
+.parrafo11{
+    font-size: 15px;
+}
+.parrafo12{
+    font-family: 'Dancing Script', cursive;
+}
+@font-face {
+    font-family: "JosefinSans-Italic";
+    src: url(/fonts/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "JosefinSans-Variable";
+    src: url(/fonts/JosefinSans-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Pangolin-Regular";
+    src: url(/fonts/Pangolin-Regular.ttf);
+}
+@font-face {
+    font-family: "BebasNeue-Regular";
+    src: url(/fonts/BebasNeue-Regular.ttf);
+}
+@font-face {
+    font-family: "Texturina-Italic";
+    src: url(/fonts/Texturina-Italic-VariableFont_opsz\,wght.ttf);
+}
+@font-face {
+    font-family: "Texturina-Variable";
+    src: url(/fonts/Texturina-VariableFont_opsz\,wght.ttf);
+}
+.parrafo13{
+    font-family: "JosefinSans-Italic";
+}
+.parrafo14{
+    font-family: "JosefinSans-Variable";
+}
+.parrafo15{
+    font-family: "Pangolin-Regular";
+}
+.parrafo16{
+    font-family: "BebasNeue-Regular";
+}
+.parrafo17{
+    font-family: "Texturina-Italic";
+}
+.parrafo18{
+    font-family: "Texturina-Variable";
+}

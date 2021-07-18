@@ -1,0 +1,99 @@
+body{
+    background-color: chartreuse;
+}
+.contenedor{
+    background-color: darkslategray;
+}
+header{
+    background-color: darkviolet;
+}
+nav{
+    background-color: rgb(27, 197, 55);
+}
+section{
+    background-color: rgb(255, 255, 255);
+}
+footer{
+    background-color: indigo;
+}
+.border1{
+    border-style: dotted;
+}
+.border2{
+    border-style: dashed;
+}
+.border3{
+    border-style: solid;
+}
+.border4{
+    border-style: double;
+}
+.border5{
+    border-style: groove;
+}
+.border6{
+    border-style: ridge;
+}
+.border7{
+    border-style: inset;
+}
+.border8{
+    border-style: outset;
+}
+.border9{
+    border-style: none;
+}
+.border10{
+    border-style: hidden;
+}
+/*Agregamos un borde de tipo combinado
+border-style:; --> borde se aplica a los 4 lados de la etiqueta(arriba, abajo, izquierda, derecha)
+border-style: valor1 valor2; --> borde se aplica (arriba, abajo) (izquierda, derecha)
+border-style: valor1 valor2 valor3; --> borde se aplica (arriba)) (izquierda, derecha) (abajo)
+border-style: valor1 valor2 valor3 valor4; --> borde se aplica (arriba) (derecha) (abajo) (izquierda)*/
+.border11{
+    border-style: solid dashed double dotted;
+}
+.border12{
+    border-style: dotted;
+    border-width: 10px;
+}
+.border13{
+    border-style: dashed;
+    border-width: medium;
+}
+.border14{
+    border-style: solid;
+    border-width: 10px 3px 25px 15px;
+}
+.border15{
+    border-style: solid;
+    border-color: red;
+}
+.border16{
+    border-style: solid;
+    border-color: red blue yellow green;
+    border-width: 10px;
+}
+.border17{
+    border-top-style: dashed;
+}
+.border18{
+    border-bottom-style: dotted;
+}
+.border19{
+    border-left-style: groove;
+}
+.border20{
+    border-right-style: solid;
+}
+.border21{
+    border-style: solid;
+    border-width: medium;
+    border-radius: 5px;
+}
+.border22{
+    border-style: solid;
+    border-width: 20px;
+    border-radius: 15px;
+}

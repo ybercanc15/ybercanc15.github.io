@@ -1,0 +1,23 @@
+.caja1{
+    width: 300px;
+    margin: auto;
+    border: 5px solid orangered;
+}
+.caja2{
+    max-width: 300px;
+    margin: auto;
+    border: 5px solid yellow;
+}
+.contenedor{
+    width: 95%;
+    height: 400px;
+    margin: auto;
+    background-color: tomato;
+}
+.contenedor2{
+    width: 95%;
+    max-width: 800px;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(255, 191, 71);
+}
